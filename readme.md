@@ -1,4 +1,4 @@
-# Smart Classroom Software
+# Smart Classroom System for Enhanced Learning
 
 Smart Classroom Software is an AI-powered classroom management system that enables automated student attendance, mobile phone usage detection, and real-time engagement analysis using computer vision and machine learning.
 
